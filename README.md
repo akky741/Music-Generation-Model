@@ -1,2 +1,2 @@
 # Music-Generation-Model
-This is song creation model
+This is full song creation model
